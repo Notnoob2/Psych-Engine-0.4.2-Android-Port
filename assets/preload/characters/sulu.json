@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sulu idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sulu left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sulu down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sulu right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				9
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sulu up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sulu",
+	"position": [
+		-50,
+		100
+	],
+	"healthicon": "sulu",
+	"flip_x": false,
+	"healthbar_colors": [
+		132,
+		190,
+		228
+	],
+	"camera_position": [
+		70,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
