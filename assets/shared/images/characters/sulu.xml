@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sulu.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sulu down0000" x="10" y="10" width="505" height="725" frameX="-4" frameY="0" frameWidth="509" frameHeight="725"/>
+	<SubTexture name="sulu down0001" x="10" y="10" width="505" height="725" frameX="-4" frameY="0" frameWidth="509" frameHeight="725"/>
+	<SubTexture name="sulu down0002" x="525" y="10" width="479" height="715" frameX="0" frameY="-10" frameWidth="509" frameHeight="725"/>
+	<SubTexture name="sulu down0003" x="525" y="10" width="479" height="715" frameX="0" frameY="-10" frameWidth="509" frameHeight="725"/>
+	<SubTexture name="sulu down0004" x="525" y="10" width="479" height="715" frameX="0" frameY="-10" frameWidth="509" frameHeight="725"/>
+	<SubTexture name="sulu down0005" x="525" y="10" width="479" height="715" frameX="0" frameY="-10" frameWidth="509" frameHeight="725"/>
+	<SubTexture name="sulu down0006" x="525" y="10" width="479" height="715" frameX="0" frameY="-10" frameWidth="509" frameHeight="725"/>
+	<SubTexture name="sulu down0007" x="525" y="10" width="479" height="715" frameX="0" frameY="-10" frameWidth="509" frameHeight="725"/>
+	<SubTexture name="sulu down0008" x="525" y="10" width="479" height="715" frameX="0" frameY="-10" frameWidth="509" frameHeight="725"/>
+	<SubTexture name="sulu down0009" x="525" y="10" width="479" height="715" frameX="0" frameY="-10" frameWidth="509" frameHeight="725"/>
+	<SubTexture name="sulu idle0000" x="1014" y="10" width="500" height="723" frameX="-1" frameY="-6" frameWidth="501" frameHeight="730"/>
+	<SubTexture name="sulu idle0001" x="1014" y="10" width="500" height="723" frameX="-1" frameY="-6" frameWidth="501" frameHeight="730"/>
+	<SubTexture name="sulu idle0002" x="1524" y="10" width="494" height="729" frameX="-1" frameY="0" frameWidth="501" frameHeight="730"/>
+	<SubTexture name="sulu idle0003" x="1524" y="10" width="494" height="729" frameX="-1" frameY="0" frameWidth="501" frameHeight="730"/>
+	<SubTexture name="sulu idle0004" x="2028" y="10" width="487" height="720" frameX="0" frameY="-9" frameWidth="501" frameHeight="730"/>
+	<SubTexture name="sulu idle0005" x="2028" y="10" width="487" height="720" frameX="0" frameY="-9" frameWidth="501" frameHeight="730"/>
+	<SubTexture name="sulu idle0006" x="2525" y="10" width="480" height="716" frameX="0" frameY="-14" frameWidth="501" frameHeight="730"/>
+	<SubTexture name="sulu idle0007" x="2525" y="10" width="480" height="716" frameX="0" frameY="-14" frameWidth="501" frameHeight="730"/>
+	<SubTexture name="sulu idle0008" x="3015" y="10" width="473" height="714" frameX="0" frameY="-16" frameWidth="501" frameHeight="730"/>
+	<SubTexture name="sulu idle0009" x="3015" y="10" width="473" height="714" frameX="0" frameY="-16" frameWidth="501" frameHeight="730"/>
+	<SubTexture name="sulu idle0010" x="3015" y="10" width="473" height="714" frameX="0" frameY="-16" frameWidth="501" frameHeight="730"/>
+	<SubTexture name="sulu idle0011" x="3015" y="10" width="473" height="714" frameX="0" frameY="-16" frameWidth="501" frameHeight="730"/>
+	<SubTexture name="sulu idle0012" x="3015" y="10" width="473" height="714" frameX="0" frameY="-16" frameWidth="501" frameHeight="730"/>
+	<SubTexture name="sulu idle0013" x="3015" y="10" width="473" height="714" frameX="0" frameY="-16" frameWidth="501" frameHeight="730"/>
+	<SubTexture name="sulu idle0014" x="3015" y="10" width="473" height="714" frameX="0" frameY="-16" frameWidth="501" frameHeight="730"/>
+	<SubTexture name="sulu left0000" x="3498" y="10" width="497" height="737"/>
+	<SubTexture name="sulu left0001" x="3498" y="10" width="497" height="737"/>
+	<SubTexture name="sulu left0002" x="10" y="757" width="486" height="731" frameX="-9" frameY="-6" frameWidth="497" frameHeight="737"/>
+	<SubTexture name="sulu left0003" x="10" y="757" width="486" height="731" frameX="-9" frameY="-6" frameWidth="497" frameHeight="737"/>
+	<SubTexture name="sulu left0004" x="10" y="757" width="486" height="731" frameX="-9" frameY="-6" frameWidth="497" frameHeight="737"/>
+	<SubTexture name="sulu left0005" x="10" y="757" width="486" height="731" frameX="-9" frameY="-6" frameWidth="497" frameHeight="737"/>
+	<SubTexture name="sulu left0006" x="10" y="757" width="486" height="731" frameX="-9" frameY="-6" frameWidth="497" frameHeight="737"/>
+	<SubTexture name="sulu left0007" x="10" y="757" width="486" height="731" frameX="-9" frameY="-6" frameWidth="497" frameHeight="737"/>
+	<SubTexture name="sulu left0008" x="10" y="757" width="486" height="731" frameX="-9" frameY="-6" frameWidth="497" frameHeight="737"/>
+	<SubTexture name="sulu left0009" x="10" y="757" width="486" height="731" frameX="-9" frameY="-6" frameWidth="497" frameHeight="737"/>
+	<SubTexture name="sulu right0000" x="506" y="757" width="485" height="727"/>
+	<SubTexture name="sulu right0001" x="506" y="757" width="485" height="727"/>
+	<SubTexture name="sulu right0002" x="1001" y="757" width="462" height="717" frameX="-6" frameY="-10" frameWidth="485" frameHeight="727"/>
+	<SubTexture name="sulu right0003" x="1001" y="757" width="462" height="717" frameX="-6" frameY="-10" frameWidth="485" frameHeight="727"/>
+	<SubTexture name="sulu right0004" x="1001" y="757" width="462" height="717" frameX="-6" frameY="-10" frameWidth="485" frameHeight="727"/>
+	<SubTexture name="sulu right0005" x="1001" y="757" width="462" height="717" frameX="-6" frameY="-10" frameWidth="485" frameHeight="727"/>
+	<SubTexture name="sulu right0006" x="1001" y="757" width="462" height="717" frameX="-6" frameY="-10" frameWidth="485" frameHeight="727"/>
+	<SubTexture name="sulu right0007" x="1001" y="757" width="462" height="717" frameX="-6" frameY="-10" frameWidth="485" frameHeight="727"/>
+	<SubTexture name="sulu right0008" x="1001" y="757" width="462" height="717" frameX="-6" frameY="-10" frameWidth="485" frameHeight="727"/>
+	<SubTexture name="sulu right0009" x="1001" y="757" width="462" height="717" frameX="-6" frameY="-10" frameWidth="485" frameHeight="727"/>
+	<SubTexture name="sulu up0000" x="1473" y="757" width="499" height="741" frameX="0" frameY="0" frameWidth="501" frameHeight="741"/>
+	<SubTexture name="sulu up0001" x="1473" y="757" width="499" height="741" frameX="0" frameY="0" frameWidth="501" frameHeight="741"/>
+	<SubTexture name="sulu up0002" x="1982" y="757" width="476" height="726" frameX="-25" frameY="-15" frameWidth="501" frameHeight="741"/>
+	<SubTexture name="sulu up0003" x="1982" y="757" width="476" height="726" frameX="-25" frameY="-15" frameWidth="501" frameHeight="741"/>
+	<SubTexture name="sulu up0004" x="1982" y="757" width="476" height="726" frameX="-25" frameY="-15" frameWidth="501" frameHeight="741"/>
+	<SubTexture name="sulu up0005" x="1982" y="757" width="476" height="726" frameX="-25" frameY="-15" frameWidth="501" frameHeight="741"/>
+	<SubTexture name="sulu up0006" x="1982" y="757" width="476" height="726" frameX="-25" frameY="-15" frameWidth="501" frameHeight="741"/>
+	<SubTexture name="sulu up0007" x="1982" y="757" width="476" height="726" frameX="-25" frameY="-15" frameWidth="501" frameHeight="741"/>
+	<SubTexture name="sulu up0008" x="1982" y="757" width="476" height="726" frameX="-25" frameY="-15" frameWidth="501" frameHeight="741"/>
+	<SubTexture name="sulu up0009" x="1982" y="757" width="476" height="726" frameX="-25" frameY="-15" frameWidth="501" frameHeight="741"/>
+</TextureAtlas>
